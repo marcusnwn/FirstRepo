@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SuperCool
 //
-//  Created by Woon Nam Ngai on 6/2/16.
+//  Created by Ngai on 6/2/16.
 //  Copyright © 2016 marc. All rights reserved.
 //
 
